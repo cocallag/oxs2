@@ -26,7 +26,7 @@
 'render_pages:output\\research\\index.html', (35840, 5045)
 'render_site', (40960, 56)
 'render_sources:output\\publications\\index.rst', (41472, 254)
-'sitemap:output\\sitemap.xml', (41984, 1972)
+'sitemap:output\\sitemap.xml', (41984, 1971)
 'copy_assets:output\\assets\\js\\html5.js', (44032, 444)
 'render_pages:output\\index.html', (44544, 5033)
 'copy_assets:output\\assets\\css\\bootstrap.min.css', (49664, 479)

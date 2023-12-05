@@ -17,6 +17,8 @@
 We Oxsalt study the functional genomics of inflammatory metabolic disease with a particular interest in atherosclerois. |br| 
 Our laboratory is in the `Centre for Human Genetics <http://www.well.ox.ac.uk>`_ and we are part of the `Nuffield Department of Medicine <http://www.ndm.ox.ac.uk>`_.
 
+and more oxsalt methods
+
 Our institutional webpages are `here <https://www.well.ox.ac.uk/research/research-groups/ocallaghan-group-1>`_ . 
 
 
